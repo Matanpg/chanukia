@@ -1,0 +1,15 @@
+.chanukiaContainer {
+  display: flex;
+  align-items: flex-end;
+}
+
+.false {
+  display: none;
+}
+
+.candleContainer {
+  height: 55px;
+  width: 50px;
+  background-color: lightblue;
+  margin: 5px
+}

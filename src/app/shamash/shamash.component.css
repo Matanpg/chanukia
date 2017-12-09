@@ -1,0 +1,13 @@
+.candle {
+  height: 100px;
+  width: 50px;
+  background-color: lightblue;
+  margin: 5px
+}
+
+.fire {
+  height: 20px;
+  width: 20px;
+  background-color: red;
+  margin: 5px
+}
